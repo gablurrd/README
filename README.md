@@ -1,6 +1,6 @@
 ### **Welcome to My Portfolio**  
 
-![](mypixforprofile)Hi, I’m **Gabriel Olabode**, a **data analyst, researcher, and Data Entry virtual assistant** with a passion for **transforming raw data into actionable insights**. With expertise in **data analysis, visualization, research, and administrative support**, I help businesses and organizations make informed, data-driven decisions. Whether it’s analyzing trends, optimizing workflows, or managing large datasets, I am committed to delivering **efficiency, accuracy, and meaningful insights**.  
+Hi, I’m **Gabriel Olabode**, a **data analyst, researcher, and Data Entry virtual assistant** with a passion for **transforming raw data into actionable insights**. With expertise in **data analysis, visualization, research, and administrative support**, I help businesses and organizations make informed, data-driven decisions. Whether it’s analyzing trends, optimizing workflows, or managing large datasets, I am committed to delivering **efficiency, accuracy, and meaningful insights**.  
 
 ---
 
