@@ -37,21 +37,41 @@ Hi, I’m **Gabriel Olabode**, a **data analyst, researcher, and virtual assista
 
 ## **💼 Experience**  
 
-### **Data Analyst | Core Animates** *(Present)*  
-- Developed interactive dashboards for data-driven decision-making.  
-- Conducted in-depth data analysis to improve process efficiency.  
+### **Marketing & Business Data Analyst | Core Animates | *Dec 2023 - Mar 2024*
 
-### **Health Data Analyst | Health Lord Clinic** *(2024)*  
-- Led analytical projects to optimize patient care and healthcare operations.  
-- Transformed complex health data into clear, actionable insights.  
+- Extracted and analyzed large datasets, uncovering key market trends that increased customer engagement by 30%.
+- Developed and automated interactive dashboards using Power BI, reducing reporting time by 40%.
+- Implemented data-driven insights, leading to a 15% boost in marketing ROI and optimized campaign targeting.
+- Collaborated with cross-functional teams, refining business strategies that enhanced process efficiency.
+  
+### **Research & Data Entry Virtual Assistant | T-Tech Operations | *June 2024 – Oct 2024*
 
-### **Data Entry Virtual Assistant | T-Tech Operations** *(2024)*  
-- Managed and maintained accurate records, improving data integrity.  
-- Assisted in workflow automation and optimized data collection processes.  
+- Managed high-volume data entry and research, improving data accuracy by 99% through streamlined validation processes.
+- Conducted market and industry research, identifying growth opportunities that led to a 10% increase in business efficiency.
+- Led salary and compensation analysis, influencing strategic hiring decisions and improving talent retention by 20%.
+  
+### **Health Data Analyst | Health Lord Clinic | *May 2024 – Nov 2024*
 
-### **Medical Virtual Assistant | Health Lord International Groups** *(2025)*  
-- Managed **EHR, patient scheduling, and telemedicine support**.  
-- Ensured compliance with healthcare regulations while optimizing administrative efficiency.  
+- Identified critical patient readmission trends, leading to targeted interventions that reduced readmissions by 25%.
+- Developed machine learning models, predicting high-risk patients and enhancing early intervention strategies.
+- Created interactive Power BI dashboards, improving hospital performance tracking and reducing data retrieval time by 40%.
+- Collaborated with healthcare providers, optimizing care plans and improving patient outcomes while reducing healthcare costs.
+- Leveraged statistical analysis, translating complex data into actionable insights that boosted patient safety measures.
+  
+### **Customer & Market Research Analyst | Gage Technology | *Dec 2024-Dec 2024*
+
+- Led AI-driven customer churn analysis, identifying key factors that reduced churn rates by 18%.
+- Provided actionable business intelligence, leading to a 10% increase in revenue through optimized marketing and engagement..
+- Refined data collection processes, ensuring data accuracy and reliability for strategic decision-making.
+  
+### **Medical Virtual Assistant | Health Lord International Groups | *Jan 2025 – Present*
+
+- Managed EHR, patient scheduling, and insurance processing, reducing administrative errors by 40% and improving workflow efficiency.
+- Handled patient inquiries and appointment coordination, enhancing communication and reducing appointment no-shows by 20%.
+- Optimized data entry and record maintenance, ensuring 100% compliance with HIPAA regulations.
+- Assisted in telemedicine consultations, streamlining patient documentation and reducing physician workload by 30%.
+- Automated administrative workflows, increasing operational efficiency and reducing paperwork processing time by 35%.
+  
 
 ---
 
