@@ -37,20 +37,20 @@ Hi, I’m **Gabriel Olabode**, a **data analyst, researcher, and virtual assista
 
 ## **💼 Experience**  
 
-### **Marketing & Business Data Analyst | Core Animates | *Dec 2023 - Mar 2024*
+### Marketing & Business Data Analyst | Core Animates | *Dec 2023 - Mar 2024*
 
 - Extracted and analyzed large datasets, uncovering key market trends that increased customer engagement by 30%.
 - Developed and automated interactive dashboards using Power BI, reducing reporting time by 40%.
 - Implemented data-driven insights, leading to a 15% boost in marketing ROI and optimized campaign targeting.
 - Collaborated with cross-functional teams, refining business strategies that enhanced process efficiency.
   
-### **Research & Data Entry Virtual Assistant | T-Tech Operations | *June 2024 – Oct 2024*
+### Research & Data Entry Virtual Assistant | T-Tech Operations | *June 2024 – Oct 2024*
 
 - Managed high-volume data entry and research, improving data accuracy by 99% through streamlined validation processes.
 - Conducted market and industry research, identifying growth opportunities that led to a 10% increase in business efficiency.
 - Led salary and compensation analysis, influencing strategic hiring decisions and improving talent retention by 20%.
   
-### **Health Data Analyst | Health Lord Clinic | *May 2024 – Nov 2024*
+### Health Data Analyst | Health Lord Clinic | *May 2024 – Nov 2024*
 
 - Identified critical patient readmission trends, leading to targeted interventions that reduced readmissions by 25%.
 - Developed machine learning models, predicting high-risk patients and enhancing early intervention strategies.
@@ -58,13 +58,13 @@ Hi, I’m **Gabriel Olabode**, a **data analyst, researcher, and virtual assista
 - Collaborated with healthcare providers, optimizing care plans and improving patient outcomes while reducing healthcare costs.
 - Leveraged statistical analysis, translating complex data into actionable insights that boosted patient safety measures.
   
-### **Customer & Market Research Analyst | Gage Technology | *Dec 2024-Dec 2024*
+### Customer & Market Research Analyst | Gage Technology | *Dec 2024-Dec 2024*
 
 - Led AI-driven customer churn analysis, identifying key factors that reduced churn rates by 18%.
 - Provided actionable business intelligence, leading to a 10% increase in revenue through optimized marketing and engagement..
 - Refined data collection processes, ensuring data accuracy and reliability for strategic decision-making.
   
-### **Medical Virtual Assistant | Health Lord International Groups | *Jan 2025 – Present*
+### Medical Virtual Assistant | Health Lord International Groups | *Jan 2025 – Present*
 
 - Managed EHR, patient scheduling, and insurance processing, reducing administrative errors by 40% and improving workflow efficiency.
 - Handled patient inquiries and appointment coordination, enhancing communication and reducing appointment no-shows by 20%.
