@@ -82,6 +82,6 @@ I combine **technical expertise, analytical thinking, and problem-solving** to h
 Let’s collaborate and turn your data into a powerful tool for success! 🎯  
 
 📩 **Feel free to connect with me!**
-[LinkedIn](www.linkedin.com/in/gabrielolabode)
+[LinkedIn](www.linkedin.com/in/gabrielolabode) [Portfolio](https://gabrielsheritage.my.canva.site/we-always-deliver)
 
 
